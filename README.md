@@ -1,18 +1,96 @@
-# 💫 About Me:
-👋 Hi, I'm Sahil Chandla!<br><br>🎓 Computer Science & Engineering Graduate<br><br>💻 Passionate about Software Development, Artificial Intelligence, and Machine Learning.<br><br>🚀 Currently exploring Python, Data Science, Machine Learning, Deep Learning, and Generative AI.<br><br>🛠️ Experienced in working with Python, JavaScript, MERN Stack, HTML, CSS, and MySQL.<br><br>📚 Continuously learning, building projects, and improving my problem-solving skills.<br><br>🎯 My goal is to build innovative, real-world solutions using AI and technology.<br><br>🤝 Open to learning, collaboration, and exciting opportunities!
+ <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,50:087EAE,100:00D4FF&height=200&section=header&text=Sahil%20Chandla&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Aspiring%20AI%2FML%20Engineer%20%7C%20Developer&descAlignY=58&descSize=18" width="100%" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamsahilkumar_017) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sahil-chandla-9a233a321) 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile!;Artificial+Intelligence+%26+Machine+Learning;Python+%7C+MERN+Stack+%7C+Data+Science;Always+Learning.+Always+Building." />
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=plastic&logo=selenium&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=sahilchandla&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=sahilchandla&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=sahilchandla&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p>
+<a href="https://www.linkedin.com/in/sahil-chandla-9a233a321/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://instagram.com/iamsahilkumar_017"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://github.com/sahilchandla"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=sahilchandla&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔹 ABOUT ME
+
+<table>
+<tr>
+<td width="60%">
+
+- 🎓 Computer Science & Engineering Graduate
+- 🤖 Interested in Artificial Intelligence & Machine Learning
+- 🐍 Learning Python, Data Science & Generative AI
+- 💻 Working with MERN Stack and Web Development
+- 📊 Exploring Data Analytics and Data Visualization
+- 🎯 Aspiring to build real-world AI-powered solutions
+- 🌱 Always learning and improving my technical skills
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,react,nodejs,mongodb,mysql&perline=3" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔹 TECH STACK & TOOLS
+
+**Programming Languages**
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,c,cpp,php" />
+</p>
+
+**Web Development**
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb,mysql,bootstrap" />
+</p>
+
+**Data Science & Development Tools**
+
+<p>
+<img src="https://skillicons.dev/icons?i=numpy,pandas,git,github,vscode,postman" />
+</p>
+
+---
+
+## 🔹 GITHUB STATISTICS
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sahilchandla&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF" />
+
+<img width="49%" src="https://streak-stats.demolab.com/?user=sahilchandla&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilchandla&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF" />
+
+</div>
+
+---
+
+## 🔹 CONTRIBUTION ACTIVITY
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/00D4FF/sahilchandla" alt="Sahil's GitHub Contribution Graph" width="100%" />
+</div>
+
+---
+
+<div align="center">
+
+### 💙 THANKS FOR VISITING!
+
+**"Code. Learn. Build. Repeat."**
+
+<img src="https://komarev.com/ghpvc/?username=sahilchandla&style=for-the-badge&color=087EAE&label=PROFILE+VISITORS" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:087EAE,100:0B1F3A&height=100&section=footer" width="100%" />
+
+</div>
