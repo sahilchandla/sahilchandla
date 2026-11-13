@@ -63,14 +63,13 @@
 
 ## 🔹 GITHUB STATISTICS
 
+<h2 align="center">📊 GitHub Statistics</h2>
+
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sahilchandla&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF" />
-
-<img width="49%" src="https://streak-stats.demolab.com/?user=sahilchandla&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" />
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilchandla&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF" />
-
+  <img src="https://github-stats-extended.vercel.app/api?username=sahilchandla&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=sahilchandla&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+  <br><br>
+  <img src="https://streak-stats.demolab.com?user=sahilchandla&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" height="180" />
 </div>
 
 ---
